@@ -2,4 +2,4 @@
 
 ## New repository
 
-``` Hi, this is my second repository in the Alx series ```
+` Hi, this is my second repository in the Alx series `
